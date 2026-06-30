@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pi Wallpaper Overlay
 
 Superimposes a Raspberry Pi's hostname and IP address onto its desktop
