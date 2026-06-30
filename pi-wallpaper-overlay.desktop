@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Pi Wallpaper Overlay
+Comment=Superimpose hostname and IP onto the desktop wallpaper
+# Short initial delay so the desktop manager is up before we run.
+# The script also retries internally for up to 30 s.
+Exec=bash -c "sleep 3 && python3 /usr/local/bin/pi-wallpaper-overlay/overlay.py"
+X-GNOME-Autostart-enabled=true
+Hidden=false
+NoDisplay=false

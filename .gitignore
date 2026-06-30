@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Runtime cache generated on each Pi - not part of the source repo
+*.log
