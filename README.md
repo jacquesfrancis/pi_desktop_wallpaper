@@ -2,8 +2,7 @@
 # Pi Wallpaper Overlay
 
 Superimposes a Raspberry Pi's hostname and IP address onto its desktop
-wallpaper at login. Handy for identifying individual Pis at a glance on a
-shared network without logging in to each one.
+wallpaper. Handy for identifying individual Pis at a glance.
 
 ## What it does
 
