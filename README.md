@@ -78,5 +78,4 @@ Runtime files live in `~/.cache/pi-wallpaper-overlay/`:
 
 ## Licence
 
-Add a licence of your choosing (e.g. MIT) before publishing if you want to
-make reuse terms explicit.
+MIT - see the licence file in the root folder.
